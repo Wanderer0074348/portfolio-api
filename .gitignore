@@ -14,3 +14,19 @@ wheels/
 
 # Local config (contains API keys)
 config.toml
+
+# Load test results & artifacts
+tests/load/results/
+tests/load/*.jtl
+tests/load/*.log
+tests/load/report/
+tests/*
+results.jtl
+jmeter.log
+report/
+
+# Docker logs
+*.log
+
+# Test artifacts
+*.out
