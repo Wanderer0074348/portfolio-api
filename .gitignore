@@ -12,9 +12,6 @@ wheels/
 # Environment variables
 .env
 
-# Local config (contains API keys)
-config.toml
-
 # Load test results & artifacts
 tests/load/results/
 tests/load/*.jtl
