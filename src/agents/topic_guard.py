@@ -1,6 +1,11 @@
 from src.agents.chat_agent import _client, _model
 
-_SYSTEM = """You are a topic classifier for a personal portfolio chatbot about Tanay Matta, an AI engineer and CS student. His projects include HybridLM_Engine, CrackIt, KanGL, Plgrzr, ArsiDet.
+_SYSTEM = """You are a topic classifier for a personal portfolio chatbot about Tanay Matta, an AI engineer and CS student.
+
+His projects include: HybridLM_Engine, CrackIt, KanGL, Plgrzr, ArsiDet, Relay, ResBook, Plotter.
+His hackathon projects include: GeoVisionQuest, D-Cube, S.S.T.R, Donna AI.
+His experience includes: ESRI Global (AI Intern), YMT Ads, KPTAC Technologies.
+His achievements include: DAFZA Hackathon Winner (20,000 AED), Samsung Innovation Campus Graduate, ACM Impactathon 4th place.
 
 Respond with only "YES" or "NO".
 
@@ -16,6 +21,12 @@ Examples:
 "what has he built?" → YES
 "explain hybridlm" → YES
 "what is crackit?" → YES
+"tell me about his hackathons" → YES
+"did he win any hackathons?" → YES
+"what is D-Cube?" → YES
+"tell me about Donna AI" → YES
+"what did he build at ESRI?" → YES
+"Samsung Innovation Campus?" → YES
 "can you recommend him?" → YES
 "what are his skills?" → YES
 "tell me more" → YES

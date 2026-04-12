@@ -19,3 +19,15 @@ Desc  : PDF document analysis using BERT embeddings, Google Cloud Vision API, an
 ## ArsiDet [Computer_Vision | Archived]
 Stack : Python, PyTorch, YOLO, Ultralytics, Streamlit, LLM, Git
 Desc  : Arabic Sign Language Detection using YOLO and transfer learning, achieving 97% accuracy in real-time gesture recognition with LLM-powered translation.
+
+## Relay [DevTools | Active]
+Stack : Rust, Claude API, Gemini, Codex, Aider, Ollama
+Desc  : Universal agent handoff CLI that captures any AI coding tool's session context and intelligently routes to fallback agents, with relevance-based compression, secret detection, and sub-100ms handoff.
+
+## ResBook [Web_Applications | In Development]
+Stack : TypeScript, React, Node.js, PostgreSQL
+Desc  : Restaurant reservation and management system enabling seamless booking experiences and operational efficiency.
+
+## Plotter [Agentic_AI | Active]
+Stack : Go, Wails, Desktop App, Ollama, ComfyUI
+Desc  : Interactive AI-powered storytelling platform where users create dynamic narratives through real-time conversation with an AI narrator.
