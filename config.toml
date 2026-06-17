@@ -9,7 +9,7 @@ model   = "llama-3.3-70b-versatile"
 [server]
 host         = "0.0.0.0"
 port         = 8000
-cors_origins = ["http://localhost:3000", "http://localhost:3001", "https://tanaymatta.vercel.app", "https://tanaymatta.com"]
+cors_origins = ["http://localhost:3000", "http://localhost:3001", "https://tanaymatta.vercel.app", "https://tanaymatta.com", "https://www.tanaymatta.com"]
 
 [terminal]
 max_tokens      = 600
