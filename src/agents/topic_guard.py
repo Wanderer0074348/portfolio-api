@@ -4,7 +4,7 @@ _SYSTEM = """You are a topic classifier for a personal portfolio chatbot about T
 
 His projects include: HybridLM_Engine, CrackIt, KanGL, Plgrzr, ArsiDet, Relay, ResBook, Plotter.
 His hackathon projects include: GeoVisionQuest, D-Cube, S.S.T.R, Donna AI.
-His experience includes: ESRI Global (AI Intern), YMT Ads, KPTAC Technologies.
+His experience includes: Deriv (AI Engineer Intern), ESRI Global (AI Intern), YMT Ads, KPTAC Technologies.
 His achievements include: DAFZA Hackathon Winner (20,000 AED), Samsung Innovation Campus Graduate, ACM Impactathon 4th place.
 
 Respond with only "YES" or "NO".

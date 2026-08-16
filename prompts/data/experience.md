@@ -1,6 +1,9 @@
 # EXPERIENCE
 
-## [CURRENT] Software Development (AI) Intern — ESRI Global, Sharjah UAE (Feb 2026 – Present)
+## [CURRENT] AI Engineer Intern — Deriv, Dubai UAE (Jul 2026 – Current)
+- Recently joined Deriv's AI engineering team; details to follow.
+
+## [ARCHIVED] Software Development (AI) Intern — ESRI Global, Sharjah UAE (Feb 2026 – Jul 2026)
 - Architected multi-agent invocation support for ArcGIS RFT AI Assistant, enabling a single query to concurrently dispatch to multiple specialized agents.
 - Engineered a context-management pipeline reducing token consumption by ~18% (110k → 90k tokens) via optimised prompt pruning and persistent chat history.
 - Built and integrated an assistant chat thinking panel into the function-editor with real-time polling, markdown rendering, and overflow handling.
